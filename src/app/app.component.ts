@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'clientes-app';
+  curso = 'curso spring 5 angular 7';
 }
